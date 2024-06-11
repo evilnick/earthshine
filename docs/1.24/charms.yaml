@@ -1,0 +1,204 @@
+- calico:
+    summary: "A robust Software Defined Network from Project Calico"
+    source: "https://github.com/charmed-kubernetes/layer-calico.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    store: https://charmhub.io/calico
+    docs: https://charmhub.io/calico/docs
+    tags: ['core', 'cni']
+- canal:
+    summary: "A Software Defined Network based on Flannel and Calico"
+    source: "https://github.com/charmed-kubernetes/layer-canal.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    store: https://charmhub.io/canal
+    docs: https://charmhub.io/canal/docs
+    tags: ['cni']
+- containerd:
+    summary: "Containerd container runtime subordinate"
+    source: "https://github.com/charmed-kubernetes/charm-containerd.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    store: https://charmhub.io/containerd
+    docs: https://charmhub.io/containerd/docs
+    tags: ['core']
+- easyrsa:
+    summary: "Deploys and manages EasyRSA to create a Certificate Authority (CA)"
+    source: "https://github.com/charmed-kubernetes/layer-easyrsa.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    store: 'https://charmhub.io/easyrsa'
+    docs: 'https://charmhub.io/easyrsa/docs'
+    tags: ['core']
+- etcd:
+    summary: "Deploy a TLS terminated ETCD Cluster"
+    source: "https://github.com/charmed-kubernetes/layer-etcd.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['core']
+    store: 'https://charmhub.io/etcd'
+    docs: 'https://charmhub.io/etcd/docs'
+- flannel:
+    summary: "A charm that provides a robust Software Defined Network"
+    source: "https://github.com/charmed-kubernetes/charm-flannel.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['cni']
+    store: 'https://charmhub.io/flannel'
+    docs: 'https://charmhub.io/flannel/docs'
+- kata:
+    summary: "Kata untrusted container runtime subordinate"
+    source: "https://github.com/charmed-kubernetes/charm-kata.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['core']
+    store: 'https://charmhub.io/kata'
+    docs: 'https://charmhub.io/kata/docs'
+- kubeapi-load-balancer:
+    summary: "Nginx Load Balancer"
+    source: "https://github.com/charmed-kubernetes/charm-kubeapi-load-balancer.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['core']
+    store: 'https://charmhub.io/kubeapi-load-balancer'
+    docs: 'https://charmhub.io/kubeapi-load-balancer/docs'
+- kube-state-metrics:
+    summary: "a service that listens to the Kubernetes API and generates metrics"
+    source: "https://github.com/charmed-kubernetes/kube-state-metrics-operator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/kube-state-metrics'
+    docs: 'https://charmhub.io/kube-state-metrics/docs'
+- kubernetes-autoscaler:
+    summary: "automatically scales up and down a kubernetes cluster"
+    source: "https://github.com/charmed-kubernetes/charm-kubernetes-autoscaler.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/kubernetes-autoscaler'
+    docs: 'https://charmhub.io/kubernetes-autoscaler/docs'
+- kubernetes-e2e:
+    summary: "End-to-end (e2e) tests for Kubernetes"
+    source: "https://github.com/charmed-kubernetes/charm-kubernetes-e2e.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/kubernetes-e2e'
+    docs: 'https://charmhub.io/kubernetes-e2e/docs'
+- kubernetes-control-plane:
+    summary: "The Kubernetes control plane"
+    source: "https://github.com/charmed-kubernetes/charm-kubernetes-control-plane.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['core']
+    store: 'https://charmhub.io/kubernetes-control-plane'
+    docs: 'https://charmhub.io/kubernetes-control-plane/docs'
+- kubernetes-metrics-server:
+    summary: "Exposes core Kubernetes metrics via metrics API "
+    source: "https://github.com/charmed-kubernetes/kubernetes-metrics-server-operator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/kubernetes-metrics-server'
+    docs: 'https://charmhub.io/kubernetes-metrics-server/docs'
+- kubernetes-worker:
+    summary: "The workload bearing units of a kubernetes cluster"
+    source: "https://github.com/charmed-kubernetes/charm-kubernetes-worker.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['core']
+    store: 'https://charmhub.io/kubernetes-worker'
+    docs: 'https://charmhub.io/kubernetes-worker/docs'
+- tigera-secure-ee:
+    summary: "Tigera Secure Enterprise Edition"
+    source: "https://github.com/charmed-kubernetes/layer-tigera-secure-ee.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['cni']
+    store: 'https://charmhub.io/tigera-secure-ee'
+    docs: 'https://charmhub.io/tigera-secure-ee/docs'
+- keepalived:
+    summary: "Failover and monitoring daemon for LVS clusters"
+    source: "https://github.com/charmed-kubernetes/charm-keepalived.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/keepalived'
+    docs: 'https://charmhub.io/keepalived/docs'
+- docker-registry:
+    summary: "Registry for docker images"
+    source: "https://github.com/CanonicalLtd/docker-registry-charm.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/docker-registry'
+    docs: 'https://charmhub.io/docker-registry/docs'
+- aws-iam:
+    summary: ""
+    source: "https://github.com/charmed-kubernetes/charm-aws-iam.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/aws-iam'
+    docs: 'https://charmhub.io/aws-iam/docs'
+- azure-integrator:
+    summary: ""
+    source: "https://github.com/juju-solutions/charm-azure-integrator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['integrator']
+    store: 'https://charmhub.io/azure-integrator'
+    docs: 'https://charmhub.io/azure-integrator/docs'
+- gcp-integrator:
+    summary: "Charm which enables Google GCP integrations for Juju"
+    source: "https://github.com/juju-solutions/charm-gcp-integrator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['integrator']
+    store: 'https://charmhub.io/gcp-integrator'
+    docs: 'https://charmhub.io/gcp-integrator/docs'
+- aws-integrator:
+    summary: "Charm to enable AWS integrations via Juju relations."
+    source: "https://github.com/juju-solutions/charm-aws-integrator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['integrator']
+    store: 'https://charmhub.io/aws-integrator'
+    docs: 'https://charmhub.io/aws-integrator/docs'
+- openstack-integrator:
+    summary: "Charm which enables OpenStack integrations for Juju"
+    source: "https://github.com/juju-solutions/charm-openstack-integrator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['integrator']
+    store: 'https://charmhub.io/openstack-integrator'
+    docs: 'https://charmhub.io/openstack-integrator/docs'
+- vsphere-integrator:
+    summary: "Charm which enables vSphere integrations for Juju"
+    source: "https://github.com/juju-solutions/charm-vsphere-integrator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['integrator']
+    store: 'https://charmhub.io/vsphere-integrator'
+    docs: 'https://charmhub.io/vsphere-integrator/docs'
+- metallb-controller:
+    summary: "Controller charm for the metallb loadbalancer"
+    source: "https://github.com/charmed-kubernetes/metallb-operator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['extra']
+    store: 'https://charmhub.io/metallb-controller'
+    docs: 'https://charmhub.io/metallb-controller/docs'
+- metallb-speaker:
+    summary: "Speaker charm for the metallb loadbalancer"
+    source: "https://github.com/charmed-kubernetes/metallb-operator.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    subdir: "charms/metallb-speaker"
+    tags: ['extra']
+    store: 'https://charmhub.io/metallb-speaker'
+    docs: 'https://charmhub.io/metallb-speaker/docs'
+- multus:
+    summary: "a CNI plugin for attaching multiple network interfaces"
+    source: "https://github.com/charmed-kubernetes/charm-multus.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['cni']
+    store: 'https://charmhub.io/multus'
+    docs: 'https://charmhub.io/multus/docs'
+- sriov-cni:
+    summary: "Attach SR-IOV Virtual Functions (VFs) directly to pods"
+    source: "https://github.com/charmed-kubernetes/charm-sriov-cni.git"
+    tags: ['cni']
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    store: 'https://charmhub.io/sriov-cni'
+    docs: 'https://charmhub.io/sriov-cni/docs'
+- sriov-network-device-plugin:
+    summary: "Enable SR-IOV support"
+    source: "https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin.git"
+    tags: ['cni']
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    store: 'https://charmhub.io/sriov-network-device-plugin'
+    docs: 'https://charmhub.io/sriov-network-device-plugin/docs'
+- coredns:
+    summary: "The CoreDNS domain name service provider"
+    source: "https://github.com/charmed-kubernetes/charm-coredns.git"
+    bugs: 'https://bugs.launchpad.net/charmed-kubernetes'
+    tags: ['cni']
+    store: 'https://charmhub.io/coredns'
+    docs: 'https://charmhub.io/coredns/docs'
