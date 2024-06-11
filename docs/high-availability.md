@@ -12,6 +12,8 @@ permalink: high-availability.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# high-availability.md
+
 
 It is desirable to have a **Charmed Kubernetes** cluster that is resilient to
 failure and highly available. For clusters operating in public cloud

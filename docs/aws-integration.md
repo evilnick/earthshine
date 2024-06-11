@@ -12,6 +12,8 @@ permalink: aws-integration.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# aws-integration.md
+
 
 **Charmed Kubernetes** will run seamlessly on AWS.  With the addition of the
 `aws-integrator` and its companion charms, your cluster will also be able

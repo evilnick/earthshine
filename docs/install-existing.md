@@ -12,6 +12,8 @@ permalink: install-existing.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# install-existing.md
+
 
 Machines that are provisioned without Juju can still be used for Juju deployments.
 This is known as a *manual cloud* and is described in the following Juju documentation:

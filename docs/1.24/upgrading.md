@@ -12,6 +12,8 @@ permalink: 1.24/upgrading.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# upgrading.md
+
 
 <div class="p-notification--information">
   <p markdown="1" class="p-notification__response">

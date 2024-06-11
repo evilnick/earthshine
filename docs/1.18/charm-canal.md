@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-canal.md
+
 
 Canal is a community-driven initiative that aims to allow users to easily
 deploy Calico and flannel networking together as a unified networking

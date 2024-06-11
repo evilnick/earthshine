@@ -18,6 +18,8 @@ charm_revision: '62'
 charm_name: gcp-integrator
 bundle_release: '1.19'
 ---
+# charm-gcp-integrator.md
+
 
 This charm acts as a proxy to GCP and provides an [interface][] to apply a
 certain set of changes via roles, profiles, and tags to the instances of

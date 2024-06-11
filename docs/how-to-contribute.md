@@ -12,6 +12,8 @@ permalink: how-to-contribute.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-contribute.md
+
 
 **Charmed Kubernetes** is entirely open source, including all elements of the code and its documentation. We welcome any contributions to either - this page gives some guidance on making those contributions more effective.
 

@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-kubeapi-load-balancer.md
+
 
 Simple NGINX reverse proxy to lend a hand in HA kubernetes-master deployments.
 

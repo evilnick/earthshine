@@ -12,6 +12,8 @@ permalink: certs-and-trust.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# certs-and-trust.md
+
 
 The components of **Charmed Kubernetes**
 need to be able to communicate securely over the network. This is accomplished

@@ -12,6 +12,8 @@ permalink: explain-cloud.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# explain-cloud.md
+
 
 The vanilla installation of Kubernetes as provided by Charmed Kubernetes doesn't presume which cloud infrastructure the charms may be running on, providing the same Kubernetes experience regardless of the underlying cloud. But there are many cases a cloud operator would like to take advantage of specific features from the cloud provider.  
 

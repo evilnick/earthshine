@@ -17,6 +17,8 @@ toc: false
 charm_revision: '441'
 bundle_release: '1.23'
 ---
+# charm-easyrsa.md
+
 
 This charm delivers the EasyRSA application to act as a Certificate Authority
 (CA) and create certificates for related charms.

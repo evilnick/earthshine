@@ -12,6 +12,8 @@ permalink: how-to-cos-lite.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-cos-lite.md
+
 
 **Charmed Kubernetes** includes the standard Kubernetes dashboard for
 monitoring your cluster. However, it is often advisable to have a monitoring

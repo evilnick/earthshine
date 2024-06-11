@@ -12,6 +12,8 @@ permalink: openstack-integration.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# openstack-integration.md
+
 
 **Charmed Kubernetes** will run seamlessly
 on OpenStack. With the addition of the `openstack-integrator`, your cluster

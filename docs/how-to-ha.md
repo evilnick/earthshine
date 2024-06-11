@@ -12,6 +12,8 @@ permalink: how-to-ha.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-ha.md
+
 
 Charmed Kubernetes supports enhancement for High Availability through a variety of approaches. Follow the links below for more information:
 

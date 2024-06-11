@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-kata.md
+
 
 This subordinate charm deploys the [Kata](https://katacontainers.io/)
 untrusted container runtime within a running Juju charm model.  It is

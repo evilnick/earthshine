@@ -12,6 +12,8 @@ permalink: scaling.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# scaling.md
+
 
 **Charmed Kubernetes** has been designed to be flexible enough to efficiently
 run your workloads. Various components of **Charmed Kubernetes** can be

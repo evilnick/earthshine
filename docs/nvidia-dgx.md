@@ -12,6 +12,8 @@ permalink: nvidia-dgx.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# nvidia-dgx.md
+
 
 Charmed Kubernetes is a certified [DGX-Ready][] Kubernetes.
 

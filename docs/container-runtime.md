@@ -12,6 +12,8 @@ permalink: container-runtime.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# container-runtime.md
+
 
 From 1.15 onwards, **Charmed Kubernetes** uses **containerd** as part of a pluggable architecture
 for container runtimes. This change has been demonstrated to increase performance, and also

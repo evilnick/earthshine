@@ -12,6 +12,8 @@ permalink: how-to-addons.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-addons.md
+
 
 This page gives step by step guides for deploying the Operator Charm
 versions of the **Charmed Kubernetes** addons. For an explanation

@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-docker.md
+
 
 This subordinate charm deploys the [Docker](http://docker.com) engine within
 a running Juju charm application. Docker is an open platform for developers

@@ -12,6 +12,8 @@ permalink: kata.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# kata.md
+
 
 Beginning with **Charmed Kubernetes** 1.16, the
 [Kata Containers][kata] runtime can be used with

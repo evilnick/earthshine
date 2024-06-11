@@ -18,6 +18,8 @@ charm_revision: '339'
 charm_name: easyrsa
 bundle_release: '1.19'
 ---
+# charm-easyrsa.md
+
 
 This charm delivers the EasyRSA application to act as a Certificate Authority
 (CA) and create certificates for related charms.

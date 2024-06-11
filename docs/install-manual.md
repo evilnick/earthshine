@@ -12,6 +12,8 @@ permalink: install-manual.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# install-manual.md
+
 
 The ['Quick start' documentation][quickstart] explains how to perform
 a quick and easy general install of **Charmed Kubernetes**.

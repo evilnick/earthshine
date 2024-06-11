@@ -12,6 +12,8 @@ permalink: audit-logging.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# audit-logging.md
+
 
 Kubernetes auditing provides a security-relevant chronological set of records
 documenting the sequence of activities that have affected the system by

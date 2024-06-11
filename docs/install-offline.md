@@ -12,6 +12,8 @@ permalink: install-offline.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# install-offline.md
+
 
 There are many reasons why it may be desirable to install Charmed Kubernetes
 on a system which does not have unfettered access to the internet. To make

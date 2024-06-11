@@ -12,6 +12,8 @@ permalink: upgrade-notes.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# upgrade-notes.md
+
 
 This page is intended to deal with specific, special circumstances you may
 encounter when upgrading between versions of **Charmed Kubernetes**.

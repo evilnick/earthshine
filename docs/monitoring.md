@@ -12,6 +12,8 @@ permalink: monitoring.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# monitoring.md
+
 
 **Charmed Kubernetes** includes the standard
 **Kubernetes** dashboard for monitoring your cluster. However, it is often advisable to

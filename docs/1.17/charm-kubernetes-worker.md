@@ -17,6 +17,8 @@ toc: false
 charm_revision: '634'
 bundle_release: '1.17'
 ---
+# charm-kubernetes-worker.md
+
 
 This charm deploys a container runtime and the Kubernetes
 worker applications: kubelet, and kube-proxy.

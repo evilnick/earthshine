@@ -12,6 +12,8 @@ permalink: 1.26/release-notes.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# release-notes.md
+
 
 # 1.26+ck4 Bugfix release
 

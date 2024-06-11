@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-kubernetes-worker.md
+
 
 This charm deploys a container runtime and the Kubernetes
 worker applications: kubelet, and kube-proxy.

@@ -12,6 +12,8 @@ permalink: hacluster.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# hacluster.md
+
 
 **HAcluster** is a **Juju** subordinate charm that encapsulates **corosync**
 and **pacemaker** for floating virtual IP or DNS addresses and is similar to

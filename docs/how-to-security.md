@@ -12,6 +12,8 @@ permalink: how-to-security.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-security.md
+
 
 The term 'security' covers a great many subtopics related to running a Kubernetes cluster, ranging from aspects of the workloads to the underlying OS. Please see the [overview of security](/kubernetes/docs/security) page for a better understanding of the approach to securing your cluster.
 

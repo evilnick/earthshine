@@ -12,6 +12,8 @@ permalink: azure-integration.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# azure-integration.md
+
 
 **Charmed Kubernetes** will run seamlessly on Microsoft Azure <sup>&reg;</sup>.
 With the addition of the `azure-integrator`, your cluster will also be able

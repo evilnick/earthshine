@@ -12,6 +12,8 @@ permalink: troubleshooting.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# troubleshooting.md
+
 
 This document covers how to troubleshoot the deployment of a Kubernetes cluster, it will not cover debugging of workloads inside Kubernetes.
 

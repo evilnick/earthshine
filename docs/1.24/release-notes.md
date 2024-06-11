@@ -12,6 +12,8 @@ permalink: 1.24/release-notes.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# release-notes.md
+
 
 # 1.24+ck2 Bugfix release
 

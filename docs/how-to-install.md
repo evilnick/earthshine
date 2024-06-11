@@ -12,6 +12,8 @@ permalink: how-to-install.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-install.md
+
 
 In addition to the easy to follow [tutorial](/kubernetes/docs/quickstart) for
 Charmed Kubernetes, additional guides are available to take you through the

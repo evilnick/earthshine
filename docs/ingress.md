@@ -12,6 +12,8 @@ permalink: ingress.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# ingress.md
+
 
 Applications in Kubernetes can be exposed outside of the cluster in several ways, such
 as via `NodePort` or `LoadBalancer` type services, or via ingress controllers or

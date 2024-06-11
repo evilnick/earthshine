@@ -17,6 +17,8 @@ toc: false
 charm_revision: '28'
 bundle_release: '1.17'
 ---
+# charm-aws-integrator.md
+
 
 This charm acts as a proxy to AWS and provides an [interface][] to apply a
 certain set of changes via IAM roles, profiles, and tags to the instances of

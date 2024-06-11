@@ -12,6 +12,8 @@ permalink: snap-refresh.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# snap-refresh.md
+
 
 Charms that comprise **Charmed Kubernetes** install required software such
 as `etcd`, `kubelet`, and `kube-apiserver` using snap packages. The `snapd`

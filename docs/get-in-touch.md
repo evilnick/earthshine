@@ -12,6 +12,8 @@ permalink: get-in-touch.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# get-in-touch.md
+
 
 The team behind the **Charmed Kubernetes** are
 keen to help and listen to your feedback. There are a variety of ways to get

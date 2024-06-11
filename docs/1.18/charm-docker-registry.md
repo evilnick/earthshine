@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-docker-registry.md
+
 
 This charm provides a registry for storage and distribution of docker images.
 See [https://docs.docker.com/registry/][upstream-project] for details.

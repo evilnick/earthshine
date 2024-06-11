@@ -17,6 +17,8 @@ toc: false
 charm_revision: '695'
 bundle_release: '1.16'
 ---
+# charm-kubeapi-load-balancer.md
+
 
 Simple NGINX reverse proxy to lend a hand in HA kubernetes-master deployments.
 

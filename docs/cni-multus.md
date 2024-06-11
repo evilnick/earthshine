@@ -12,6 +12,8 @@ permalink: cni-multus.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cni-multus.md
+
 
 [Multus][multus] is a CNI plugin for Kubernetes which enables attaching multiple
 network interfaces to pods. Multus support for **Charmed Kubernetes** is

@@ -12,6 +12,8 @@ permalink: tutorials-index.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# tutorials-index.md
+
 
 This section of our documentation contains step-by-step tutorials to guide you through installing and using **Charmed Kubernetes**
 Our tutorials have been written to make as few assumptions as possible, and to be accessible to everyone. They're an ideal place to start learning.

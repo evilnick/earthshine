@@ -18,6 +18,8 @@ charm_revision: '62'
 charm_name: kata
 bundle_release: '1.19'
 ---
+# charm-kata.md
+
 
 This subordinate charm deploys the [Kata](https://katacontainers.io/)
 untrusted container runtime within a running Juju charm model.  It is

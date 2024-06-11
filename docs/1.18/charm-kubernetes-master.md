@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-kubernetes-master.md
+
 
 This charm is an encapsulation of the Kubernetes master processes and the
 operations to run on any cloud for the entire lifecycle of the cluster.

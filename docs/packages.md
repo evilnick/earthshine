@@ -12,6 +12,8 @@ permalink: packages.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# packages.md
+
 
 **Charmed Kubernetes** makes extensive use of [snaps], both for Kubernetes
 services and for client-side tools to operate a cluster. This page details some

@@ -12,6 +12,8 @@ permalink: cni-calico.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cni-calico.md
+
 
 [Calico][] is a software-defined network solution that can be used with Kubernetes.
 Support for Calico in **Charmed Kubernetes** is provided in the form of a `calico`

@@ -17,6 +17,8 @@ toc: false
 charm_revision: '20'
 bundle_release: '1.17'
 ---
+# charm-aws-iam.md
+
 
 The AWS IAM charm allows a Kubernetes cluster to be authenticated via the Amazon
 API using AWS users and groups. The authorization falls to RBAC, so an Amazon

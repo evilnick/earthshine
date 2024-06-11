@@ -12,6 +12,8 @@ permalink: encryption-at-rest.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# encryption-at-rest.md
+
 
 **Kubernetes** has the concept of [secrets][] for managing sensitive information
 needed by a cluster, such as usernames and passwords, encryption keys, etc.

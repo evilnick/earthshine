@@ -12,6 +12,8 @@ permalink: decommissioning.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# decommissioning.md
+
 
 Decommissioning a cluster requires only a few commands, but beware that it will irretrievably destroy the cluster, its workloads and any information that was stored within. Before proceeding, it is important to verify that you:
 

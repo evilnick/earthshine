@@ -12,6 +12,8 @@ permalink: ldap.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# ldap.md
+
 
 There is a distinction between authentication and authorisation:
 

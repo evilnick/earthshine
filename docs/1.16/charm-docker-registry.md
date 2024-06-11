@@ -17,6 +17,8 @@ toc: false
 charm_revision: '152'
 bundle_release: '1.16'
 ---
+# charm-docker-registry.md
+
 
 This charm provides a registry for storage and distribution of docker images.
 See [https://docs.docker.com/registry/][upstream-project] for details.

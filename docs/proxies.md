@@ -12,6 +12,8 @@ permalink: proxies.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# proxies.md
+
 
 There are many occasions, particularly in production environments, when
 your Kubernetes cluster does not have direct, unfettered access to the internet.

@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-aws-iam.md
+
 
 The AWS IAM charm allows a Kubernetes cluster to be authenticated via the Amazon
 API using AWS users and groups. The authorization falls to RBAC, so an Amazon

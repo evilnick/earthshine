@@ -12,6 +12,8 @@ permalink: explain-backups.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# explain-backups.md
+
 
 As with any other component of IT architecture, it is recommended to have a plan for backing up and restoring key elements of your Kubernetes cluster.
 

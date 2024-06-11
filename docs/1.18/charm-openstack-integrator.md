@@ -20,6 +20,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-openstack-integrator.md
+
 
 This charm acts as a proxy to OpenStack and provides an [interface][] to provide
 a set of credentials for a somewhat limited project user to the applications that

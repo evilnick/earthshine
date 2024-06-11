@@ -20,6 +20,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-aws-integrator.md
+
 
 This charm acts as a proxy to AWS and provides an [interface][] to apply a
 certain set of changes via IAM roles, profiles, and tags to the instances of

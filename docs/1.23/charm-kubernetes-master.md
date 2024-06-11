@@ -17,6 +17,8 @@ toc: false
 charm_revision: '1106'
 bundle_release: '1.23'
 ---
+# charm-kubernetes-master.md
+
 
 This charm is an encapsulation of the Kubernetes master processes and the
 operations to run on any cloud for the entire lifecycle of the cluster.

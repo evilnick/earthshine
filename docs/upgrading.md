@@ -12,6 +12,8 @@ permalink: upgrading.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# upgrading.md
+
 
 <!-- UPGRADE VERSIONS -->
 

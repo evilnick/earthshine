@@ -12,6 +12,8 @@ permalink: custom-loadbalancer.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# custom-loadbalancer.md
+
 
 **Charmed Kubernetes** supports setting a
 custom IP address for the control plane.  There are two ways of achieving this, depending

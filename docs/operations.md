@@ -12,6 +12,8 @@ permalink: operations.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# operations.md
+
 
 Now that you have installed your **Charmed Kubernetes** cluster, what can you do with it? This page details
 some basic cluster operations, including how to check the status of your cluster and test

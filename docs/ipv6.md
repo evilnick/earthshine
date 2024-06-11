@@ -12,6 +12,8 @@ permalink: ipv6.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# ipv6.md
+
 
 <div class="p-notification--caution is-inline">
   <div markdown="1" class="p-notification__content">

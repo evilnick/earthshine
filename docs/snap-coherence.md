@@ -12,6 +12,8 @@ permalink: snap-coherence.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# snap-coherence.md
+
 
 The core Kubernetes components used in **Charmed Kubernetes** are installed as
 snap packages. These include:

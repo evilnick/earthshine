@@ -12,6 +12,8 @@ permalink: cni-sriov.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cni-sriov.md
+
 
 SR-IOV support in **Charmed Kubernetes** makes it possible to take network
 interfaces that are SR-IOV Virtual Functions (VFs) and attach them directly to

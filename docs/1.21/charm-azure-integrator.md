@@ -17,6 +17,8 @@ toc: false
 charm_revision: '73'
 bundle_release: '1.21'
 ---
+# charm-azure-integrator.md
+
 
 This charm acts as a proxy to Azure and provides an [interface][] to apply a
 certain set of changes via roles, profiles, and tags to the instances of

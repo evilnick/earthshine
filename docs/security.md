@@ -12,6 +12,8 @@ permalink: security.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# security.md
+
 
 This page provides an overview of various aspects of security to be considered
 when operating a **Charmed Kubernetes** cluster. To consider security properly,

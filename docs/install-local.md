@@ -12,6 +12,8 @@ permalink: install-local.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# install-local.md
+
 
 Installing **Charmed Kubernetes** on a single machine is possible for the
 purposes of testing and development.

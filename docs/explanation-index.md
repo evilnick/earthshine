@@ -12,6 +12,8 @@ permalink: explanation-index.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# explanation-index.md
+
 Our explanatory and conceptual guides are written to provide a better understanding of topics related to Charmed Kubernetes and Kubernetes in general. They help you to expand your knowledge and become better at understanding and operating **Charmed Kubernetes**.
 
 | **Explanation guides** | Notes |

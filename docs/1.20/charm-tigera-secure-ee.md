@@ -17,6 +17,8 @@ toc: false
 charm_revision: '156'
 bundle_release: '1.20'
 ---
+# charm-tigera-secure-ee.md
+
 
 This charm will deploy Tigera Secure Enterprise Edition (EE) as a background
 service, and configure CNI for use with Tigera Secure EE, on any principal

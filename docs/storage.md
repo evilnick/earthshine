@@ -12,6 +12,8 @@ permalink: storage.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# storage.md
+
 
 On-disk files in a container are ephemeral and can't be shared with other members of a pod. For some applications, this is not an issue, but for many persistent storage is required.
 

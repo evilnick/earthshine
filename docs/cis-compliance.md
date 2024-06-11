@@ -12,6 +12,8 @@ permalink: cis-compliance.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cis-compliance.md
+
 
 The **Center for Internet Security (CIS)** maintains a
 [Kubernetes benchmark][cis-benchmark] which helps ensure clusters are

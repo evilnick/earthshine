@@ -18,6 +18,8 @@ charm_revision: '912'
 charm_name: kubernetes-master
 bundle_release: '1.19'
 ---
+# charm-kubernetes-master.md
+
 
 This charm is an encapsulation of the Kubernetes master processes and the
 operations to run on any cloud for the entire lifecycle of the cluster.

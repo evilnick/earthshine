@@ -12,6 +12,8 @@ permalink: release-notes-historic.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# release-notes-historic.md
+
 # 1.18+ck2 Bugfix release
 
 ### August 12, 2020 - charmed-kubernetes-485

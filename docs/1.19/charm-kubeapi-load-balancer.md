@@ -18,6 +18,8 @@ charm_revision: '753'
 charm_name: kubeapi-load-balancer
 bundle_release: '1.19'
 ---
+# charm-kubeapi-load-balancer.md
+
 
 Simple NGINX reverse proxy to lend a hand in HA kubernetes-master deployments.
 

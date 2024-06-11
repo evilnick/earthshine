@@ -18,6 +18,8 @@ charm_revision: '755'
 charm_name: calico
 bundle_release: '1.19'
 ---
+# charm-calico.md
+
 
 Calico is a new approach to virtual networking and network security for containers,
 VMs, and bare metal services, that provides a rich set of security enforcement

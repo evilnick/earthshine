@@ -12,6 +12,8 @@ permalink: tigera-secure-ee.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# tigera-secure-ee.md
+
 
 Tigera Secure EE is a software-defined network solution that can be used with
 Kubernetes. For those familiar with Calico, Tigera Secure EE is essentially

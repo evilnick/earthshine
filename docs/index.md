@@ -1,3 +1,5 @@
+# index.md
+
 # Charmed Kubernetes
 
 docs etc

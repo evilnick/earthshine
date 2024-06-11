@@ -12,6 +12,8 @@ permalink: backups.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# backups.md
+
 
 The state of your **Kubernetes** cluster is kept in the **etcd** datastore.
 This page shows how to backup and restore the etcd included in

@@ -12,6 +12,8 @@ permalink: cdk-addons.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cdk-addons.md
+
 
 In addition to the components strictly required to create a Kubernetes cluster,
 **Charmed Kubernetes** installs and configures some components for convenience

@@ -12,6 +12,8 @@ permalink: reference-index.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# reference-index.md
+
 Our reference pages contain more specific details about **Charmed Kubernetes** you may need to look up from time to time.
 
 | **Reference pages** | Notes |

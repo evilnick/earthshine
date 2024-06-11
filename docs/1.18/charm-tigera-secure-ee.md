@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-tigera-secure-ee.md
+
 
 This charm will deploy Tigera Secure Enterprise Edition (EE) as a background
 service, and configure CNI for use with Tigera Secure EE, on any principal

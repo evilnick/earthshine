@@ -1,3 +1,5 @@
+# _side-navigation.md
+
 ## Tutorials
 - [Get started](/kubernetes/docs/quickstart)
 

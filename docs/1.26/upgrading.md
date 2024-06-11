@@ -12,6 +12,8 @@ permalink: 1.26/upgrading.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# upgrading.md
+
 
 It is recommended that you keep your **Kubernetes** deployment updated to the latest available stable version. You should also update the other applications which make up the **Charmed Kubernetes**. Keeping up to date ensures you have the latest bug-fixes and security patches for smooth operation of your cluster.
 

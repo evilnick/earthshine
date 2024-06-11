@@ -12,6 +12,8 @@ permalink: vsphere-integration.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# vsphere-integration.md
+
 
 **Charmed Kubernetes** will install and run on vSphere virtual servers.
 With the  addition of the `vsphere-cloud-provider` and the `vsphere-integrator`, your cluster will also be able

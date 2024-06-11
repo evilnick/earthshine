@@ -12,6 +12,8 @@ permalink: ceph.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# ceph.md
+
 
 Many workloads that you may want to run on your Kubernetes cluster will require some
 form of available storage. This guide will help you deploy **Charmed Kubernetes** with

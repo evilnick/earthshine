@@ -12,6 +12,8 @@ permalink: how-to-operate.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-operate.md
+
 
 We don't desert our users on day zero - while this documentation can never be a
 complete guide to the general operation of a Kubernetes cluster, we can provide

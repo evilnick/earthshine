@@ -12,6 +12,8 @@ permalink: gpu-workers.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# gpu-workers.md
+
 
 **Charmed Kubernetes** can automatically detect GPU-enabled hardware and install
 required drivers from NVIDIA repositories. With the release of Charmed Kubernetes 1.29,

@@ -18,6 +18,8 @@ charm_revision: '172'
 charm_name: docker-registry
 bundle_release: '1.19'
 ---
+# charm-docker-registry.md
+
 
 This charm provides a registry for storage and distribution of docker images.
 See [https://docs.docker.com/registry/][upstream-project] for details.

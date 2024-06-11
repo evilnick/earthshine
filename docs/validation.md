@@ -12,6 +12,8 @@ permalink: validation.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# validation.md
+
 
 End-to-end (e2e) tests for **Kubernetes** provide a mechanism to test the behaviour of the system. This is a useful indicator that the cluster is performing properly, as well as a good validation of any code changes.
 

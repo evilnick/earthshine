@@ -12,6 +12,8 @@ permalink: logging.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# logging.md
+
 
 Broadly, there are two types of logs you may be interested in. On cluster for
 the applications you are running inside your cluster, and at an infrastructure

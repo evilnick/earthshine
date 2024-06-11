@@ -18,6 +18,8 @@ charm_revision: '69'
 charm_name: aws-integrator
 bundle_release: '1.19'
 ---
+# charm-aws-integrator.md
+
 
 This charm acts as a proxy to AWS and provides an [interface][] to apply a
 certain set of changes via IAM roles, profiles, and tags to the instances of

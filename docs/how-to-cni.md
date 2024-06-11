@@ -12,6 +12,8 @@ permalink: how-to-cni.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-cni.md
+
 
 Charmed Kubernetes supports a wide variety of network options for your cluster,
 provided by additional charms. Their use is described in the pages linked below:

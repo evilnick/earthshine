@@ -12,6 +12,8 @@ permalink: cni-canal.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cni-canal.md
+
 
 "Canal" is a shorthand for saying "Calico and Flannel", a common practise which sets
 up Calico to handle policy management and Flannel to manage the network itself. This

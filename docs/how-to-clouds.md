@@ -12,6 +12,8 @@ permalink: how-to-clouds.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# how-to-clouds.md
+
 
 Charmed Kubernetes is designed to be cloud-agnostic. It can be deployed on any cloud or substrate supported by Juju. However, there are specific features of clouds (e.g. storage and load-balancers) which can more effectively be integrated for Charmed Kubernetes. This integration is provided by a series of substrate specific charms. Their use is described in the pages linked below:
 

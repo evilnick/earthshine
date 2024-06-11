@@ -18,6 +18,8 @@ charm_revision: '544'
 charm_name: etcd
 bundle_release: '1.19'
 ---
+# charm-etcd.md
+
 
 Etcd is a highly available distributed key value store that provides a reliable
 way to store data across a cluster of machines. Etcd gracefully handles master

@@ -12,6 +12,8 @@ permalink: quickstart.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# quickstart.md
+
 
 Charmed Kubernetes<sup>&reg;</sup> delivers a 'pure K8s' experience, tested
 across a wide range of clouds and integrated with modern metrics and monitoring.

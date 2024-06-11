@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-etcd.md
+
 
 Etcd is a highly available distributed key value store that provides a reliable
 way to store data across a cluster of machines. Etcd gracefully handles master

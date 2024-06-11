@@ -12,6 +12,8 @@ permalink: autoscaler.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# autoscaler.md
+
 
 The Kubernetes autoscaler charm is an operator charm designed to be run on top
 of a **Charmed Kubernetes** cluster. The charm automatically adjusts

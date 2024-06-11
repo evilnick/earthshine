@@ -12,6 +12,8 @@ permalink: release-notes.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# release-notes.md
+
 
 <!-- AUTOGENERATE RELEASE NOTES HERE -->
 

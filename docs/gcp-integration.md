@@ -12,6 +12,8 @@ permalink: gcp-integration.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# gcp-integration.md
+
 
 **Charmed Kubernetes** will run seamlessly on
 **Google Cloud Platform**(GCP).  With the addition of the `gcp-integrator`,

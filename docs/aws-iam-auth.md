@@ -12,6 +12,8 @@ permalink: aws-iam-auth.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# aws-iam-auth.md
+
 
 ## AWS IAM
 

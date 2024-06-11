@@ -12,6 +12,8 @@ permalink: charm-reference.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# charm-reference.md
+
 
 ## Core charms
 

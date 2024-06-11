@@ -18,6 +18,8 @@ charm_revision: '746'
 charm_name: canal
 bundle_release: '1.19'
 ---
+# charm-canal.md
+
 
 Canal is a community-driven initiative that aims to allow users to easily
 deploy Calico and flannel networking together as a unified networking

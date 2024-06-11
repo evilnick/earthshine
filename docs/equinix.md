@@ -12,6 +12,8 @@ permalink: equinix.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# equinix.md
+
 
 As with any cloud supported by Juju, **Charmed Kubernetes** can be deployed and used on
 [Equinix Metal][]. This document provides some extra information and an overlay to

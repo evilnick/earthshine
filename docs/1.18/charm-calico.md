@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-calico.md
+
 
 Calico is a new approach to virtual networking and network security for containers,
 VMs, and bare metal services, that provides a rich set of security enforcement

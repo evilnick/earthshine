@@ -18,6 +18,8 @@ tags:
 toc: false
 wrapper_template: "templates/docs/markdown.html"
 ---
+# charm-easyrsa.md
+
 
 This charm delivers the EasyRSA application to act as a Certificate Authority
 (CA) and create certificates for related charms.

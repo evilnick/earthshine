@@ -12,6 +12,8 @@ permalink: news.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# news.md
+
 
 ## PLACEHOLDER ONLY
 

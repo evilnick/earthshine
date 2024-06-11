@@ -12,6 +12,8 @@ permalink: using-vault.html
 layout: [base, ubuntu-com]
 toc: True
 ---
+# using-vault.md
+
 
 As mentioned in the [Certificates and trust reference][certs-doc] documentation,
 [HashiCorp's Vault][vault] can be used to provide either a root or intermediate CA. It can

@@ -12,6 +12,8 @@ permalink: inclusive-naming.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# inclusive-naming.md
+
 
 The software industry has historically used words and terms which evoke
 unintended meanings that they weren’t intended to have to have. Canonical and

@@ -17,6 +17,8 @@ toc: false
 charm_revision: '204'
 bundle_release: '1.23'
 ---
+# charm-openstack-integrator.md
+
 
 This charm acts as a proxy to OpenStack and provides an [interface][] to provide
 a set of credentials for a somewhat limited project user to the applications that

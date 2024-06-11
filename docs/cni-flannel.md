@@ -12,6 +12,8 @@ permalink: cni-flannel.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# cni-flannel.md
+
 
 
 [Flannel][] is a simple, lightweight layer 3 fabric for Kubernetes. Flannel manages an

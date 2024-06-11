@@ -12,6 +12,8 @@ permalink: keepalived.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# keepalived.md
+
 
 The standard deployment of **Charmed Kubernetes** includes a single instance
 of the kube-api-loadbalancer. For many use cases this is perfectly adequate,

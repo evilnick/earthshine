@@ -12,6 +12,8 @@ permalink: docker-registry.html
 layout: [base, ubuntu-com]
 toc: False
 ---
+# docker-registry.md
+
 
 The [docker-registry][registry-charm] charm deploys a local image registry 
 for your cluster, taking care of the storage and distribution of 
